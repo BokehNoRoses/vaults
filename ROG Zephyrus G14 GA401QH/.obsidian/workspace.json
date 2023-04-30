@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agnostic/Github/git/init.md",
+                "file": "agnostic/Github/git/Initial Workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agnostic/Github/git/init.md",
+                "file": "agnostic/Github/git/Initial Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "agnostic/Github/git/init.md",
+                "file": "agnostic/Github/git/Initial Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agnostic/Github/git/init.md"
+                "file": "agnostic/Github/git/Initial Workflow.md"
               }
             }
           }
@@ -234,7 +234,7 @@
   "active": "4399154957aa1665",
   "lastOpenFiles": [
     "agnostic/Github/SSH/Using an existing SSH key.md",
-    "agnostic/Github/git/init.md",
+    "agnostic/Github/git/Initial Workflow.md",
     "agnostic/Github/git",
     "openSUSE/leftwm/pass/ssh-add.md",
     "agnostic/Github/SSH/Using the SSH agent.md",
